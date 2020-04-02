@@ -5,8 +5,8 @@ Java version `openjdk11`
 
 ### Image versions
 * Quarkus 1.3.1.Final 
-** branch: 1.3.1
-** docker image tags: tkit/ubi-quarkus:1.3.1 | tkit/ubi-quarkus:1.3.1-x
+** branch: 1.3
+** docker image tags: tkit/ubi-quarkus:1.3 | tkit/ubi-quarkus:1.3.1
 
 ### Release
 * `git push` - build branch image <branch_name> tag
